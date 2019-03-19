@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "name": "boo",
+        "image": "https://i.pinimg.com/originals/6f/57/99/6f57998a706f84d6c42032637e76ed05.png",
+        "clicked": false
+        
+    },
+
+    {
+        "id": 2,
+        "name": "bowser",
+        "image": "https://cdn-images-1.medium.com/max/1600/1*x2Gw1gKrRQi5WEcBrKYA1g.png",
+        "clicked": false
+    },
+
+    {
+        "id": 3,
+        "name": "diddy-kong",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/DiddyReturns.png/200px-DiddyReturns.png",
+        "clicked": false
+    },
+
+    {
+        "id": 4,
+        "name": "donkey-kong",
+        "image": "https://www.mariowiki.com/images/thumb/b/b5/SuperMarioParty_DonkeyKong.png/250px-SuperMarioParty_DonkeyKong.png",
+        "clicked": false
+    },
+
+    {
+        "id": 5,
+        "name": "koopa",
+        "image": "https://vignette.wikia.nocookie.net/nintendo/images/8/83/KoopaNSMB.png/revision/latest?cb=20110724132501&path-prefix=en",
+        "clicked": false
+    },
+
+    {
+        "id": 6,
+        "name": "luigi",
+        "image": "https://i.pinimg.com/originals/8e/8a/b1/8e8ab1c2b2ecd05cd892f8d70886c78f.png",
+        "clicked": false
+    },
+
+    {
+        "id": 7,
+        "name": "mario",
+        "image": "https://mario.nintendo.com/assets/img/home/intro/mario-pose2.png",
+        "clicked": false
+    },
+
+    {
+        "id": 8,
+        "name": "peach",
+        "image": "https://vignette.wikia.nocookie.net/supermariobrothersx/images/7/75/Peach_FS.png/revision/latest?cb=20130715142250",
+        "clicked": false
+    },
+
+    {
+        "id": 9,
+        "name": "shy-guy",
+        "image": "https://i.pinimg.com/originals/9b/84/96/9b8496f26ff042070e5fbe5aca28128e.png",
+        "clicked": false
+    },
+
+    {
+        "id": 10,
+        "name": "toad",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Toad_3D_Land.png/220px-Toad_3D_Land.png",
+        "clicked": false
+    },
+
+    {
+        "id": 11,
+        "name": "toadette",
+        "image": "https://vignette.wikia.nocookie.net/mario/images/b/b2/ToadetteMP10.png/revision/latest?cb=20151220193635",
+        "clicked": false
+    },
+
+    {
+        "id": 12,
+        "name": "yoshi",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/YoshiMarioParty10.png/220px-YoshiMarioParty10.png",
+        "clicked": false
+    }
+]

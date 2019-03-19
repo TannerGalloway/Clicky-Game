@@ -1,0 +1,14 @@
+header
+{
+    background-color: #6956AF;
+    padding: 25px;
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+a:link, a:visited, a:hover, a:active
+{
+    color: white;
+    text-decoration: none;
+}

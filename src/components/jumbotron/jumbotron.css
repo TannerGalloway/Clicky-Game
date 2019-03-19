@@ -1,0 +1,11 @@
+.jumbotron
+{
+    background-image: url("./black-geometry.jpg");
+    padding: 100px;
+}
+
+.text-center
+{
+    color: white;
+    font-weight: bold
+}
